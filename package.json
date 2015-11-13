@@ -1,0 +1,21 @@
+{
+  "name": "git-remotes",
+  "version": "0.0.1",
+  "description": "List the remotes of a git repository",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marco-c/git-remotes/"
+  },
+  "author": "Marco Castelluccio <mcastelluccio@mozilla.com>",
+  "license": "MPL-2.0",
+  "keywords": [
+    "git"
+  ],
+  "dependencies": {
+    "gitconfiglocal": "^1.0.0"
+  },
+  "engines": {
+    "node": ">= 0.12"
+  }
+}
