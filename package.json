@@ -1,5 +1,5 @@
 {
-  "name": "git-remotes",
+  "name": "git-list-remotes",
   "version": "0.0.1",
   "description": "List the remotes of a git repository",
   "main": "index.js",
