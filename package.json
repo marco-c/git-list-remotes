@@ -1,6 +1,6 @@
 {
   "name": "git-list-remotes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "List the remotes of a git repository",
   "main": "index.js",
   "scripts": {
