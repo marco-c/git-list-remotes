@@ -2,7 +2,7 @@
 
 var gitconfiglocal = require('gitconfiglocal');
 
-module.exports = function(dir, remote) {
+module.exports = function(dir) {
   return new Promise(function(resolve, reject) {
     gitconfiglocal(dir, function(error, config) {
       if (error) {
